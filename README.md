@@ -7,7 +7,8 @@ Tools to help using Zephyr
 
 How to Install Sublime Text 2 Package
 ============
-The "zephyr.tmLanguage" file can be added to the following directory:
+The "zephyr.tmLanguage" file can be added to:
+    
     ~/Library/Application\ Support/Sublime\ Text\2/Packages/User
 
 From there, you will be able to select it in underneath the "User"
